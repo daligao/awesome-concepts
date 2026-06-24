@@ -895,6 +895,10 @@ Thinking is a lot of work. “My first thought,” William Deresiewicz said in o
 
 https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
+### Interactive Tools
+
+- [Extended IQ & Cognitive Bias Challenge](https://ordinarymantrying.com/tools/iq-challenge-extended.html) — 20-question browser tool testing your awareness of cognitive biases in action: Cognitive Reflection Test (bat/ball, lily pad, machines), Monty Hall problem, Linda problem (conjunction fallacy), Wason selection task, gambler's fallacy, anchoring, sunk cost, and more. Average score: 11/20. Free, no login.
+
 ## UX laws
 
 1. Aesthetic Usability Effect - Users often perceive aesthetically pleasing design as design that’s more usable.
