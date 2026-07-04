@@ -982,4 +982,4 @@ https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
 https://fs.blog/mental-models/
 
-- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - 40 curated psychology laws and cognitive biases with interactive quiz. Bridges the gap between understanding concepts and recognizing them in real decisions.
+- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - Interactive open-source resource for psychology laws and cognitive biases.
