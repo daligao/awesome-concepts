@@ -895,6 +895,8 @@ Thinking is a lot of work. “My first thought,” William Deresiewicz said in o
 
 https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
+- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - 40 curated psychology laws and cognitive biases with interactive quiz (320+ real-world scenarios) to bridge the gap between *understanding* a bias and *recognizing* it in practice. Built on 8,000+ player data.
+
 ## UX laws
 
 1. Aesthetic Usability Effect - Users often perceive aesthetically pleasing design as design that’s more usable.
@@ -981,5 +983,3 @@ http://www.defmacro.org/2016/12/22/models.html
 https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
 https://fs.blog/mental-models/
-
-- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - 40 curated psychology laws and cognitive biases with interactive quiz. Bridges the gap between understanding concepts and recognizing them in real decisions.
